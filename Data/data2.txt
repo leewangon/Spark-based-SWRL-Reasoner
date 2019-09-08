@@ -1,0 +1,4 @@
+<a> <http://xb.saltlux.com/schema/property/child> <c> .
+<b> <http://xb.saltlux.com/schema/property/child> <c> .
+<a2> <http://xb.saltlux.com/schema/property/child> <c2> .
+<b2> <http://xb.saltlux.com/schema/property/child> <c2> .

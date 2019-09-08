@@ -1,0 +1,4 @@
+<suzan2> <http://xb.saltlux.com/schema/property/age> <5>
+<suzan2> <http://xb.saltlux.com/schema/property/gender> <http://xb.saltlux.com/resource/0000591581>
+<suzan5> <http://xb.saltlux.com/schema/property/age> <20>
+<suzan5> <http://xb.saltlux.com/schema/property/gender> <http://xb.saltlux.com/resource/0000591581>

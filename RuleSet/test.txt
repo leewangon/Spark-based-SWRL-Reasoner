@@ -1,0 +1,1 @@
+xbp:gender(?b, xbr:0000322562) -> xbp:brother(gon, ?b)

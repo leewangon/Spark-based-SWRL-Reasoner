@@ -1,0 +1,2 @@
+xbp:hasParent(?b, ?f) ^ xbc:Person(?b) ^ xbp:hasSpouse(?a, ?f)-> xbp:hasChild(?a, ?b)
+xbp:hasChild(?f, ?a) ^ xbp:hasMother(?b, ?f) -> xbp:hasSibling(?a, ?b)

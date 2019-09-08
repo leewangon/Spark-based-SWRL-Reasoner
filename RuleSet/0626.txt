@@ -1,0 +1,1 @@
+xbp:age(?x,?age)^xbp:gender(?x,xbr:0000591581)^equal(?age,20) -> xbc:girl(?x)

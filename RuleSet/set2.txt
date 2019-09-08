@@ -1,0 +1,1 @@
+xbp:child(?a,?f)^xbp:child(?b,?f) -> xbp:spouse(?a,?b)

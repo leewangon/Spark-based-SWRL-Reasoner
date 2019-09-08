@@ -1,0 +1,1 @@
+<tom> <http://xb.saltlux.com/schema/property/gender> <http://xb.saltlux.com/resource/0000322562>
